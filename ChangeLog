@@ -1,3 +1,7 @@
+2016-08-07 15:22 nonflammable
+	* NOAA server update
+	  src/metar.h
+	  
 2006-10-30 23:18  kees-guest
 
 	* CHANGES, VERSION.m4, debian/changelog, patches/368106.patch,
